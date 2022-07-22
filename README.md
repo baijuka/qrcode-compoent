@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.jpg)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -31,8 +31,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/baijuka/qrcode-compoent)
+- [Live Site URL](https://baijuka.github.io/qrcode-compoent/)
 
 ## My process
 
@@ -47,7 +47,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Front-end development requires patience and crativity. By developing this site I learned many aspects of web development. I have applied bootstrap framework's various components and style to achieve the desired output.  I have applied diffrent Bootstrap classes like .container, .bg-info, .d-flex .flex-column .min-vh-100 .justify-content-center .align-items-center, card etc. to make the page as expected.
 
 To see how you can add code snippets, see below:
 
@@ -65,28 +65,28 @@ const proudOfThisFunc = () => {
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
+```Bootstrap
+<div class="container bg-info">
+```
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I would like to make the site dynamic by adding more content and functionalities.
 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Bootstrap](https://getbootstrap.com/) - Boostrap is a css framework and this site has helped me applying robust css styles.
+- [W3Schools](https://www.w3schools.com) - W3Schools is the first point of reference for every developer. This website has a plethora of tutorials on almost every subjects in front-end and back-end development.  I'd recommend it to anyone still learning this concept.
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Baiju Abraham]()
+- Frontend Mentor - [@baijuka](https://www.frontendmentor.io/profile/yourusername)
 
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Thanks for the Frontend Mentor for offering an opportunity to take part in the coding challenge.
 
