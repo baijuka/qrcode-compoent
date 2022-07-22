@@ -83,7 +83,7 @@ I would like to make the site dynamic by adding more content and functionalities
 ## Author
 
 - [Baiju Abraham ](https://github.com/baijuka)
-- Frontend Mentor - [@baijuka](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@baijuka](https://www.frontendmentor.io/profile/baijuka)
 
 
 ## Acknowledgments
