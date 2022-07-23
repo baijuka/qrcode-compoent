@@ -13,3 +13,20 @@ h5 {
     font-weight: 700;
 }
 
+/* .container {
+    background-color: red !important;
+} */
+
+.bg-div {
+    background-color: aqua !important;
+}
+
+.divtest {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
+
+h1 {
+    color: blue;
+}
